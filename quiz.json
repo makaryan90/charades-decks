@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "updatedAt": "2026-07-21T00:00:00.000Z",
+  "packs": [
+    {
+      "id": "sayit-video-games",
+      "title": "Guess the Video Game",
+      "emoji": "🎮",
+      "kind": "text",
+      "entries": [
+        { "answer": "Minecraft", "clues": ["build with blocks", "creepers explode", "survival and creative mode"] },
+        { "answer": "Fortnite", "clues": ["the Battle Bus", "build walls fast", "Victory Royale"] },
+        { "answer": "Among Us", "clues": ["find the impostor", "emergency meeting", "'red is kinda sus'"] },
+        { "answer": "The Legend of Zelda", "clues": ["Link versus Ganon", "the Master Sword", "the kingdom of Hyrule"] },
+        { "answer": "Grand Theft Auto", "clues": ["open-world crime", "steal any car", "Los Santos"] },
+        { "answer": "Super Mario", "clues": ["a plumber in red", "stomps Goombas", "saves Princess Peach"] },
+        { "answer": "Call of Duty", "clues": ["first-person shooter", "Warzone", "a yearly military franchise"] },
+        { "answer": "Roblox", "clues": ["make your own games", "Robux currency", "blocky avatars"] },
+        { "answer": "Pokemon", "clues": ["gotta catch 'em all", "Pikachu", "Poke Balls"] },
+        { "answer": "Elden Ring", "clues": ["made by FromSoftware", "'YOU DIED'", "the Lands Between"] },
+        { "answer": "Stardew Valley", "clues": ["run a little farm", "cozy pixel life", "marry a villager"] },
+        { "answer": "Animal Crossing", "clues": ["island life", "Tom Nook's loans", "catch bugs and fish"] },
+        { "answer": "God of War", "clues": ["Kratos and Atreus", "Norse mythology", "the Leviathan Axe"] },
+        { "answer": "The Sims", "clues": ["control little people", "'Sul Sul!'", "build a dream house"] }
+      ]
+    }
+  ]
+}
